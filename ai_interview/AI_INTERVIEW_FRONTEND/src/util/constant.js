@@ -1,0 +1,8 @@
+export const APP_CONSTANTS = {
+    IDLE: "IDLE",
+    INTRO: "INTRO",
+    ASKING: "ASKING",
+    LISTENING: "LISTENING",
+    IN_PROGRESS: "IN_PROGRESS",
+    COMPLETED: "COMPLETED", 
+};
